@@ -10,4 +10,20 @@ Before executing the code make sure that you change the respective paths.
 
 Initially before exection of my code,I have 12 different images in the Images Folder after execution,I had 36 images in which 12 are Grayscale images and the other 12 are Inverted images.
 
+The output images are given in the "png" format but the input images can be in any of the following formats mentioned below :
+    
+    --> tif
+		--> tiff
+    --> bmp
+    --> jpg
+    --> jpeg
+    --> gif
+    --> png
+    --> eps
+    --> raw
+		--> cr2
+    --> nef
+    --> orf
+    --> sr2
+    
 The images folder which I have worked upon is uploaded for your reference.
