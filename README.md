@@ -8,12 +8,13 @@ The method "grayscale" in the code converts a color image to an Grayscale image 
 
 Before executing the code make sure that you change the respective paths.
 
-Initially before exection of my code,I have 12 different images in the Images Folder after execution,I had 36 images in which 12 are Grayscale images and the other 12 are Inverted images.
+Initially before exection of my code,I have 12 different images in the Images Folder after execution,I had 36 images in which 12 
+are Grayscale images and the other 12 are Inverted images.
 
 The output images are given in the "png" format but the input images can be in any of the following formats mentioned below :
     
     --> tif
-		--> tiff
+    --> tiff
     --> bmp
     --> jpg
     --> jpeg
@@ -21,7 +22,7 @@ The output images are given in the "png" format but the input images can be in a
     --> png
     --> eps
     --> raw
-		--> cr2
+    --> cr2
     --> nef
     --> orf
     --> sr2
