@@ -8,4 +8,6 @@ The method "grayscale" in the code converts a color image to an Grayscale image 
 
 Before executing the code make sure that you change the respective paths.
 
-Initially before exection of my code,I have 11 different images in the Images Folder after execution,I had 33 images in which 11 are Grayscale images and the other 11 are Inverted images.
+Initially before exection of my code,I have 12 different images in the Images Folder after execution,I had 36 images in which 12 are Grayscale images and the other 12 are Inverted images.
+
+The images folder which I have worked upon is uploaded for your reference.
